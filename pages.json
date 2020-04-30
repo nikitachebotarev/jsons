@@ -1,0 +1,17 @@
+{
+  "title":"Актуальное"
+  "widgets":[
+    {
+      "id":"0",
+      "type":"two_line",
+      "title":"Бранислав",
+      "subtitle":"Попкин"
+    },
+    {
+      "id":"0",
+      "type":"two_line",
+      "title":"Виктор",
+      "subtitle":"Тапочкин"
+    }
+  ]
+}
